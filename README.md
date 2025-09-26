@@ -1,4 +1,4 @@
-# [NIM] - Pengantar Machine Learning
+# [221230015] - Pengantar Machine Learning
 
 **Nama:** [Muhammad Syarwani Rizki]
 **NIM:** [221230015]
